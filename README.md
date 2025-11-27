@@ -1,4 +1,4 @@
-# 📊 Global Sales Dashboard – Power BI
+## 📊 Global Sales Dashboard – Power BI
 
 A fully interactive Power BI dashboard designed to analyze global sales performance across countries, quarters, product categories, customer segments, and product types.
 This project helps organizations quickly identify trends, top-performing regions, and key revenue drivers using clear and dynamic visual insights.
