@@ -86,21 +86,20 @@ This Power BI project analyzes a **comprehensive global sales dataset**, enablin
 
 ![alt text](Dashboard_Screenshot-1.png)
 
-
 ---
 
 ## 🔢 DAX Measures Used
-```DAX
--- Total Sales
+### DAX
+- Total Sales
 Total Sales = SUM(Sales[SalesAmount])
 
--- Order Count
+- Order Count
 Order Count = DISTINCTCOUNT(Sales[OrderID])
 
--- Average Unit Price
+- Average Unit Price
 Average Unit Price = AVERAGE(Sales[UnitPrice])
 
--- Total Quantity
+- Total Quantity
 Total Quantity = SUM(Sales[Quantity])
 
 ---
