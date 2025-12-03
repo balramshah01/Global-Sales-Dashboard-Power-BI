@@ -18,7 +18,6 @@ The dashboard provides **deep insights**, including monthly trends, profitabilit
 - [DAX Measures Used](#dax-measures-used)
 - [Contact](#contact)
 
-
 ---
 
 ## 🚀 Project Overview
