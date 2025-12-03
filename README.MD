@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 📊 Global Sales Dashboard – Power BI
 
 A fully interactive **Power BI dashboard** designed to analyze global sales performance across countries, customers, product categories, revenue segments, and time periods.  
@@ -7,7 +6,7 @@ The dashboard provides **deep insights**, including monthly trends, profitabilit
 ---
 
 ## 📑 Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#-project-overview)
 - [Tools & Technologies Used](#tools--technologies-used)
 - [Key Dashboard Features](#key-dashboard-features)
 - [Top 5 Product Insights](#top-5-product-insights)
