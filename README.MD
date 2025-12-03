@@ -7,15 +7,15 @@ The dashboard provides **deep insights**, including monthly trends, profitabilit
 
 ## 📑 Table of Contents
 - [Project Overview](#-project-overview)
-- [Tools & Technologies Used](#tools--technologies-used)
-- [Key Dashboard Features](#key-dashboard-features)
-- [Top 5 Product Insights](#top-5-product-insights)
-- [Customer Segment vs Product Category](#customer-segment-vs-product-category)
-- [Product Performance](#product-performance)
-- [Quantity Overview](#quantity-overview)
-- [Dashboard Preview](#dashboard-preview)
-- [DAX Measures Used](#dax-measures-used)
-- [Contact](#contact)
+- [Tools & Technologies Used](#-tools--technologies-used)
+- [Key Dashboard Features](#-key-dashboard-features)
+- [Top 5 Product Insights](#-top-5-product-insights)
+- [Customer Segment vs Product Category](#-customer-segment-vs-product-category)
+- [Product Performance](#-product-performance)
+- [Quantity Overview](#-quantity-overview)
+- [Dashboard Preview](#-dashboard-preview)
+- [DAX Measures Used](#-dax-measures-used)
+- [Contact](#-contact)
 
 ---
 
