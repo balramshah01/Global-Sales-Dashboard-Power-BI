@@ -103,8 +103,9 @@ Average Unit Price = AVERAGE(Sales[UnitPrice])
 -- Total Quantity
 Total Quantity = SUM(Sales[Quantity])
 
+---
 
-📬 Contact
+## 📬 Contact
 
 If you'd like to learn more or collaborate, feel free to reach out:
 
